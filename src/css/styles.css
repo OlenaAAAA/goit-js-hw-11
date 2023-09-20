@@ -11,7 +11,7 @@
 img {
   display: block;
   width: 400px;
-  /* max-width: 100%; */
+  max-width: 100%;
 /* }
 
 .breed-select {
@@ -25,4 +25,22 @@ body {
 
 body {
   background-color: rgb(200, 197, 193);
+}
+
+.gallery {
+  margin-top: 90px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+img {
+  display: block;
+  /* width: 400px; */
+  max-width: 100%;
+}
+
+* {
+  box-sizing: border-box;
 }
