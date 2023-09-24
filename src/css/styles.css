@@ -36,6 +36,7 @@ img {
   align-items: center;
   justify-content: center;
   color: darkslategray;
+  /* font-weight: bold; */
 }
 
 .is-hidden {
